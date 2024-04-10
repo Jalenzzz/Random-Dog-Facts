@@ -1,0 +1,63 @@
+.logo {
+  position: absolute;
+  top: 10px; /* Adjust top position from top edge */
+  left: 10px; /* Adjust left position from left edge */
+  width: 90px; /* Adjust width as needed */
+  height: auto;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #c6dcba;
+  min-height: 100vh;
+  padding: 0 10px;
+  background: linear-gradient(180deg, #fff 30%, #c48a50 70%);
+}
+.container {
+  margin: 50px auto;
+  text-align: center;
+  background-color: rgba(187, 124, 0, 0.46);
+  width: 100%;
+}
+.project-description {
+  text-align: center; /* Or adjust as needed */
+  margin-bottom: 15px; /* Add some spacing */
+  font-family: "Kanit", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+.fact-container {
+  padding: 20px;
+  border-radius: 20px;
+  margin-top: 20px;
+  box-shadow: 7px 7px 20px rgba(121, 78, 0, 0.2);
+  color: #fff;
+  background: #222;
+}
+
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  font-family: "Kanit", sans-serif;
+  font-size: 16px;
+  width: 150px;
+  outline: none;
+  border-radius: 89px;
+  background-color: #bd835c;
+  color: #ffffff;
+  text-align: center;
+}
+
+button:hover {
+  background-color: #b3a398;
+}
+
+#fact {
+  font-size: 18px;
+  margin-bottom: 10px;
+  font-family: "Kanit", sans-serif;
+}
