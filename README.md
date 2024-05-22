@@ -1,8 +1,8 @@
 # Dog Facts Generator 🐶
 
 Fun, fascinating facts about dogs delivered right to your screen! 😊  
-View the live website from [here](https://jalenzzz.github.io/Random-Dog-Facts/).  
-**_By Jalenzzz_**  
+View the live website from [here](https://jalenzzz.github.io/Random-Dog-Facts/).
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
 
 ## Features
