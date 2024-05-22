@@ -1,4 +1,4 @@
-# <img src="https://github.com/Jalenzzz/Random-Dog-Facts/raw/master/Images/dog.png" width="30" /> Dog Facts Generator
+# Dog Facts Generator
 
 Fun, fascinating facts about dogs delivered right to your screen!  
 View the live website from [here](https://jalenzzz.github.io/Random-Dog-Facts/).
