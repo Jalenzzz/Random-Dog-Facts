@@ -1,9 +1,12 @@
-# Dog Facts Generator 🐶
+# <img src="https://github.com/Jalenzzz/Random-Dog-Facts/raw/master/Images/dog.png" width="45" /> Dog Facts Generator
 
-Fun, fascinating facts about dogs delivered right to your screen! 😊  
+Fun, fascinating facts about dogs delivered right to your screen!  
 View the live website from [here](https://jalenzzz.github.io/Random-Dog-Facts/).
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/Jalenzzz/Random-Dog-Facts/blob/master/LICENSE)
+[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+![GitHub repo size](https://img.shields.io/github/repo-size/Jalenzzz/Random-Dog-Facts)
+![GitHub last commit](https://img.shields.io/github/last-commit/Jalenzzz/Random-Dog-Facts)
 
 ## Features
 
@@ -40,10 +43,6 @@ I welcome contributions! To get involved:
 ## Support
 
 If you like this project, please star the repository! ⭐
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 ## Project Link
 
