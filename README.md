@@ -3,7 +3,7 @@
 Fun, fascinating facts about dogs delivered right to your screen! 😊  
 View the live website from [here](https://jalenzzz.github.io/Random-Dog-Facts/).
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Features
 
