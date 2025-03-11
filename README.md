@@ -29,7 +29,7 @@ Enjoy exploring the fascinating world of dogs! 🐶
 - HTML
 - CSS
 - JavaScript
-- [Dog API by kinduff](https://dogapi.dog/api/v2/facts)
+- [Dog API by kinduff](https://dogapi.dog/)
 
 ## Contributing
 
