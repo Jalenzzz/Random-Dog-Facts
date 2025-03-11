@@ -16,8 +16,12 @@ fetchButton.addEventListener("click", async () => {
 });
 
 async function fetchDogFact() {
-  const response = await fetch("https://dog-api.kinduff.com/api/facts");
+  const response = await fetch("https://dogapi.dog/api/v2/facts");
   const data = await response.json();
-  const randomFact = data.facts[0];
+
+  // Extract the fact from nested JSON data
+  const randomFact = data.data[0].attributes.body;
+
+  // Display the fact
   factDisplay.textContent = randomFact;
 }
